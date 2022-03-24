@@ -3,16 +3,16 @@
   "appInfo": {
     "name": "My app",
     "description": "",
-    "version": "fyj6dxwo",
-    "id": "cl15adq9j37101101s6no7tssc4",
-    "url": "https://app.amplication.com/cl15adq9j37101101s6no7tssc4",
+    "version": "7fk4vc3s",
+    "id": "cl15e6dvy143331901s6ajycrnm2",
+    "url": "https://app.amplication.com/cl15e6dvy143331901s6ajycrnm2",
     "settings": {
       "dbHost": "localhost",
       "dbName": "",
       "dbPassword": "admin",
       "dbPort": 5432,
       "dbUser": "admin",
-      "appId": "cl15adq9j37101101s6no7tssc4",
+      "appId": "cl15e6dvy143331901s6ajycrnm2",
       "authProvider": "Jwt"
     }
   }
