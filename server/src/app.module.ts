@@ -1,5 +1,6 @@
 import { Module } from "@nestjs/common";
 import { UserModule } from "./user/user.module";
+import { SubscriptionModule } from "./subscription/subscription.module";
 import { ACLModule } from "./auth/acl.module";
 import { AuthModule } from "./auth/auth.module";
 import { HealthModule } from "./health/health.module";
@@ -14,6 +15,7 @@ import { GraphQLModule } from "@nestjs/graphql";
   controllers: [],
   imports: [
     UserModule,
+    SubscriptionModule,
     ACLModule,
     AuthModule,
     HealthModule,
